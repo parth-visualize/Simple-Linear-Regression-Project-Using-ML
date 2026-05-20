@@ -123,10 +123,6 @@ The algorithm finds the best-fit line by minimizing the **Sum of Squared Errors 
 
 **Parth** — Data Analyst & ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-ba7400384/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/parth-visualize)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parthverma358@gmail.com)
-
 ---
 
 > ⭐ If this project helped you understand Linear Regression, consider giving it a star!
